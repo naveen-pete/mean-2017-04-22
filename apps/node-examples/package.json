@@ -1,0 +1,15 @@
+{
+  "name": "node-examples",
+  "version": "1.0.0",
+  "description": "Demo programs for modules and error handling",
+  "main": "simplerect.js",
+  "dependencies": {
+    "yargs": "^4.8.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
